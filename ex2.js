@@ -4,7 +4,7 @@
 // 2 representa terça-feira e assim por diante.
 
 
-let numero = prompt("Digite um numero de 1 a 7")
+let numero = prompt("Digite um numero de 1 a 7: ")
 
 
 if (numero == "1") {
