@@ -11,36 +11,47 @@ if (numero == "1") {
     console.log("segunda-feira")
 }
 
+else{}
+
 
 if (numero == "2") {
     console.log("terça-feira")
 }
 
+else{}
 
 if (numero == "3") {
     console.log("quarta-feira")
 }
 
+else{}
 
 if (numero == "4") {
     console.log("quinta-feira")
 }
 
+else{}
 
 if (numero == "5") {
     console.log("sexta-feira")
 }
 
+else{}
 
 if (numero == "6") {
     console.log("sabado")
 }
 
+else{}
+
 if (numero == "7") {
     console.log("domingo")
 }
 
+else{
 
+    console.log (nao existente)
+}
 
 
 
