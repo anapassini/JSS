@@ -48,10 +48,8 @@ if (numero == "7") {
     console.log("domingo")
 }
 
-else{
+else{}
 
-    console.log (nao existente)
-}
 
 
 
