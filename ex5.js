@@ -16,3 +16,4 @@ else {
     console.log ("ordem crescente")
 }
 
+//Desafio Ordem crescente decrescente ou nao estar em ordem 
