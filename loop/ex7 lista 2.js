@@ -1,14 +1,13 @@
 // 7. Calcular a soma dos números de 1 a 100 utilizando a estrutura
 // while.
 
-let num = 1;
-let soma = soma
+
+let numero = 0;
+let soma = numero + numero
 
 
-
-while (num < 100){
-    soma += num
-    num += 1
-    console.log(num)
+while(numero  < 100){
+     numero +=1;
+    soma += numero
+     console.log(soma)
 }
-
